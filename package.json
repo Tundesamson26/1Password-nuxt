@@ -1,9 +1,11 @@
 {
   "name": "nuxt-app",
   "private": true,
+  "type": "module",
   "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "start": "nuxi preview",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
@@ -11,9 +13,13 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@types/node": "^18",
+    "@vitejs/plugin-vue": "^4.2.3",
     "nuxt": "^3.6.1"
   },
   "dependencies": {
-    "@appwrite.io/pink": "^0.0.6-rc.14"
+    "@appwrite.io/pink": "^0.0.6-rc.14",
+    "@passageidentity/passage-elements": "^1.9.3",
+    "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "vue": "^3.3.4"
   }
 }
