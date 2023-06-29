@@ -1,5 +1,5 @@
 <template>
   <div>
-    <Signup/>
+    <PassageAuthSignup/>
   </div>
 </template>

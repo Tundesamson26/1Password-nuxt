@@ -14,12 +14,14 @@
     "@nuxt/devtools": "latest",
     "@types/node": "^18",
     "@vitejs/plugin-vue": "^4.2.3",
-    "nuxt": "^3.6.1"
+    "nuxt": "^3.5.1"
   },
   "dependencies": {
     "@appwrite.io/pink": "^0.0.6-rc.14",
     "@passageidentity/passage-elements": "^1.9.3",
     "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "appwrite": "^11.0.0",
+    "random-avatar-generator": "^2.0.0",
     "vue": "^3.3.4"
   }
 }

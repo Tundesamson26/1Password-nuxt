@@ -4,7 +4,7 @@
     <div class="content">
       <div class="content-header">
         <h1 class="heading-level-4 u-text-center u-bold">
-          <span class="u-color-text-pink">uCan</span>Earn
+          <span class="u-color-text-pink">sell</span>Wise
         </h1>
       </div>
       <div class="flex-container" style="padding-top: 20px">
@@ -16,7 +16,7 @@
             class="body-text-1 u-normal u-small u-margin-block-start-16 context-para"
             style="padding-bottom: 10px; font-size: 18px;"
           >
-            <span class="u-bold"><span class="u-color-text-pink">uCan</span>Earn</span> is your all-in-one e-commerce store builder to sell any
+            <span class="u-bold"><span class="u-color-text-pink">sell</span>Wise</span> is your all-in-one e-commerce store builder to sell any
             kind of digital product and service to anyone, anywhere in the
             world.
           </p>

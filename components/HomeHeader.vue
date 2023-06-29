@@ -9,7 +9,7 @@
     </button>
     <a class="logo astro-I7CAYJX6" href="/">
       <h1 class="heading-level-5">
-        <span class="u-color-text-pink">uCan</span>Earn
+        <span class="u-color-text-pink">sell</span>Wise
       </h1>
     </a>
     <div class="main-header-end navbar u-margin-inline-end-16 astro-I7CAYJX6">
@@ -22,7 +22,7 @@
         </li>
         <li class="buttons-list-item buttons">
           <NuxtLink
-            to="/signin"
+            to="/signup"
             title="Signin"
             rel="noopener noreferrer"
             class="buttons is-text"
