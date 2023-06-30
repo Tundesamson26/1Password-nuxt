@@ -8,7 +8,7 @@
         <span class="icon-menu" style="font-size: 30px"></span>
       </button>
       <div class="side-nav sidebar" :class="{ 'sidebar-open': isSidebarOpen }">
-        <Profile />
+        <!-- <Profile /> -->
         <div class="side-nav-main">
           <section class="drop-section">
             <ul class="drop-list">
@@ -94,7 +94,6 @@
   
   const logOut = async () => {
     try {
-      await account.deleteSession('current');
       $router.push({ path: '/' });
       alert('See ya later 🎉');
     } catch (err) {
