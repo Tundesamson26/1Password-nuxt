@@ -118,7 +118,7 @@
     width: 250px;
     flex: 1; /* Allow the sidebar to expand to fill the available height */
     overflow-y: auto; /* Enable vertical scrolling if content overflows */
-    transition: width 0.3s ease; /* Add a smooth transition for width changes */
+    transition: width 0.3s ease;
   }
   
   .sidebar-open {
