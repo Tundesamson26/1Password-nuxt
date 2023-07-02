@@ -107,7 +107,7 @@
   .sidebar-wrapper {
     display: flex;
     flex-direction: column;
-    min-height: 100vh; /* Set the height to full viewport height */
+    min-height: 100vh;
     flex: 0 0 auto;
     width: 250px;
   }
