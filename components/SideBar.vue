@@ -95,7 +95,7 @@
   const logOut = async () => {
     try {
       $router.push({ path: '/' });
-      alert('See ya later 🎉');
+      alert('See yah later 🎉');
     } catch (err) {
       console.error(err.message);
       alert('Encountered an error 😪');
