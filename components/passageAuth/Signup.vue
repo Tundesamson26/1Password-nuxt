@@ -13,26 +13,6 @@
   </section>
 </template>
 
-<!-- <script>
-  import { ref, onMounted } from "vue";
-  import "@appwrite.io/pink"; // optionally, add icons
-  import "@appwrite.io/pink-icons";
-  
-  import "@passageidentity/passage-elements/passage-auth";
-  
-  const email = ref("");
-  const username = ref("");
-  
-  export default ({
-    setup() {
-      const appId = process.env.VUE_APP_PASSAGE_APP_ID
-      return {
-        appId,
-      }
-    },
-  })
-  </script> -->
-
 <script>
 import { defineComponent } from "vue";
 import "@appwrite.io/pink"; // optionally, add icons
