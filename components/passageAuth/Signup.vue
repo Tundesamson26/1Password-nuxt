@@ -15,7 +15,7 @@
 
 <script>
 import { defineComponent } from "vue";
-import "@appwrite.io/pink"; // optionally, add icons
+import "@appwrite.io/pink";
 import "@appwrite.io/pink-icons";
 import "@passageidentity/passage-elements/passage-auth";
 
